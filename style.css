@@ -117,3 +117,32 @@ li{
     font-weight: 700;
     color: grey ;
 }
+
+
+.third{
+    margin-top: 100px;
+    padding: 200px;
+    padding-left: 400px;
+    padding-right: 400px;
+    padding-bottom: 100px;
+    background: #E5E7EB;
+    display: flex;
+    justify-content: center;
+}
+
+.quote{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+em{
+    font-size: 49px;
+    font-weight: 100;
+    color: #1F2937;
+}
+
+.author{
+    font-size: 30px;
+    font-weight: 900;
+    margin-left: auto;
+}
