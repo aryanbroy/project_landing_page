@@ -80,3 +80,40 @@ li{
     margin: 4px 2px;
     font-size: 16px;
 }
+
+.second{
+    margin-top: 100px;
+}
+
+.information{
+    text-align: center;
+    font-size: 42px;
+    font-weight: 950;
+    color: #1F2937;
+}
+
+.roundBoxes{
+    margin-top: 70px;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    
+}
+
+.roundBox{
+    width: 250px;
+    height: 250px;
+    border: 6px solid #3882F6;
+    border-radius: 20px;
+}
+
+.oneBox{
+    width: 250px;
+}
+
+.boxSub{
+    text-align: center;
+    font-size: 22px;
+    font-weight: 700;
+    color: grey ;
+}
